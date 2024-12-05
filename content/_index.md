@@ -8,7 +8,9 @@ type: docs
 {{% columns %}}
 ## Zum Kurs
 
-Der Kurs wurde im Jahr 20.. von Frau Anette Clamor ins Leben gerufen. **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
+Der Kurs wurde im Jahr 20.. von Frau Anette Clamor ins Leben gerufen. 
+
+**arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
 modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
 
 <--->
