@@ -1,15 +1,14 @@
 ---
-title: Introduction
+title: Willkommen!
 type: docs
 ---
 
-# Was nun?
+# Das Asterix-Seminar der Universität Osnabrück
 
 {{% columns %}}
-## ???
+## Zum Kurs
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
+Der Kurs wurde im Jahr 20.. von Frau Anette Clamor ins Leben gerufen. **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
 modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
 
 <--->
