@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'de-de'
-title = 'Asterix-Seminar-uos.com'
+title = 'Asterix-Seminar.com'
 theme = 'hugo-book'
 BookDateFormat = '2 Jan, 2006'
