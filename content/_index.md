@@ -1,5 +1,5 @@
 ---
-title: Willkommen!
+title: Textkompetenz und mehr
 type: docs
 ---
 
