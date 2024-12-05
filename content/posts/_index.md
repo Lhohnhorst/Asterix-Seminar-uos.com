@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: blog
+    name: Beispiele
     weight: 5
-title: Blog
+title: Texte des Seminars
 ---
